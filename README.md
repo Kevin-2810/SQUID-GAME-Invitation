@@ -1,3 +1,3 @@
 # SQUID-GAME-Invitation
 
-<a href="https://github.com/Kevin-2810/SQUID-GAME-Invitation/">INVITATION</a>
+<a href="https://kevin-2810.github.io/SQUID-GAME-Invitation/">INVITATION</a>
